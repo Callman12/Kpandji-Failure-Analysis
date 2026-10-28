@@ -30,8 +30,8 @@ Developed as part of the Software Engineering curriculum (Licence 3) at the **In
 
 ## 👥 Authors & Contributors
 
-- **Elie Pethuel Ehoussou** (`@pethuelelie-glitch`) — Project Lead & Author
+- **Elie Pethuel Ehoussou** (`@eliepethuel`) — Project Lead & Author
 - **Calman** (`@Callman12`) — Technical Assistant & Automation (ELIE AI Squad)
 
 ---
-*Institut Ivoirien de Technologie (IIT) — 2026*
+
