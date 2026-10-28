@@ -1,51 +1,37 @@
-# Kpandji Failure Analysis | Strategic Case Study
+# Kpandji Failure Analysis — Strategic Post-Mortem
 
-![GitHub repository size](https://img.shields.io/github/repo-size/Callman12/Kpandji-Failure-Analysis)
-![Status](https://img.shields.io/badge/Status-Completed-success)
-![Presentation Slides](https://img.shields.io/badge/Slides-14%20Professional%20Slides-blue)
+Professional case study and strategic analysis of **Kpandji**, the pioneering Ivorian car manufacturing initiative. This project examines the economic, strategic, operational, and financial factors that led to its failure, providing actionable business lessons for emerging African automotive and industrial ventures.
 
-## Overview
-
-This repository contains a comprehensive, professional post-mortem analysis of **Kpandji**, the pioneering Ivorian automobile brand. Designed as a 14-slide widescreen (16:9) PowerPoint presentation entirely in English, this case study examines the genesis, strategic objectives, economic hurdles, ecosystem gaps, and vital lessons of launching an indigenous car brand in West Africa.
+Developed as part of the Software Engineering curriculum (Licence 3) at the **Institut Ivoirien de Technologie (IIT)**, Grand-Bassam, Côte d'Ivoire.
 
 ---
 
-## Repository Structure
+## 📂 Project Structure
 
-- `kpandji_presentation.pptx` : The final 14-slide professional PowerPoint presentation (Dark steel theme `#121212`, Emerald Green `#0B6623`, and Terracotta `#C85A17`).
-- `generer_pptx.py` : Python script utilizing `python-pptx` to programmatically generate the presentation slides.
-- `README.md` : Project documentation and executive summary.
-
----
-
-## Presentation Outline (14 Slides)
-
-1. **Title Slide:** Dreaming the Ivorian Automotive Industry: The Rise and Fall of Kpandji
-2. **Genesis & Ambition:** The Birth of Kpandji
-3. **Strategic Objectives:** Industrial Goals & Socio-Economic Impact
-4. **Business Model:** SKD / CKD Assembly Strategy vs. Local Value Chain
-5. **Prototype & Public Reception:** National Pride vs. Early Warning Signals
-6. **Financial Anatomy:** The Heavy Cost of Hardware & Capital Intensity
-7. **Supply Chain & Ecosystem Gaps:** Logistics Bottlenecks & Absence of Suppliers
-8. **Market Realities:** Fierce Competition from Used Imports & After-Sales Deficits
-9. **Regulatory & Institutional Framework:** Incentive Gaps & Infrastructure Deficits
-10. **Post-Mortem Analysis:** Engineering Fallacy vs. Market Reality
-11. **Key Lessons:** Ecosystem First & Pragmatic Positioning
-12. **The "Fail Fast, Learn Faster" Paradigm:** A Necessary Pioneer for West Africa
-13. **Conclusion:** The Future is Still to Be Built
-14. **Q&A / Thank You:** Paving the Way for Tomorrow's Engineers
+- **`kpandji_presentation.pptx`**: The complete professional PowerPoint presentation (12+ structured slides).
+- **`generer_pptx.py`**: Python automation script using `python-pptx` to programmatically build and style the presentation slides.
+- **`reports/`**:
+  - `presentation_kpandji_fr.md`: Detailed presentation notes and analysis in French.
+  - `kpandji_presentation_english.md`: Comprehensive slide-by-slide script and notes in English.
+- **`docs/`**:
+  - `soutenance_notes.md`: Oral defense guidelines and key talking points.
+  - `planning_oral_kpandji.md`: Sprint planning and timeline leading up to the defense.
+  - `10_questions_pieges.md` & `kpandji_trap_questions_en.md`: Anticipated tricky questions and strategic answers.
 
 ---
 
-## Authorship & Context
+## 🚀 Key Highlights & Findings
 
-- **Author / Presenter:** Elie Pethuel Ehoussou
-- **Institution:** Institut Ivoirien de Technologie (IIT) - Grand-Bassam, Côte d'Ivoire
-- **Program:** 3rd Year Bachelor in Software Engineering (L3)
-- **Supervising Agent (Technical Support):** Calman (Senior Developer AI)
+1. **Vision vs. Reality**: Ambitious vision of building Côte d'Ivoire's first local car brand, hampered by capital intensity, lack of industrial ecosystem, and supply chain bottlenecks.
+2. **Strategic Missteps**: Underestimating import competition, local market purchasing power, and economies of scale.
+3. **Lessons Learned**: The necessity of phased prototyping, robust financing, local supplier partnerships, and clear market positioning.
 
 ---
 
-## License
+## 👥 Authors & Contributors
 
-This project is open-source and academic educational material.
+- **Elie Pethuel Ehoussou** (`@pethuelelie-glitch`) — Project Lead & Author
+- **Calman** (`@Callman12`) — Technical Assistant & Automation (ELIE AI Squad)
+
+---
+*Institut Ivoirien de Technologie (IIT) — 2026*
